@@ -1,0 +1,6 @@
+*.exe
+*.zip
+.inspect/
+node_modules/
+.env*
+*.log

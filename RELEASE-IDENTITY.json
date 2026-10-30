@@ -1,0 +1,9 @@
+{
+  "product": "KianaPet",
+  "version": "2.1.4",
+  "buildId": "060e54276c4a7e53e3ac900cc321d87239ed501055b13da3c01b3b49797e74d1",
+  "sourcePolicy": "private-development-release-only-public",
+  "signature": "not-code-signed",
+  "rightsScopeSha256": "9ea1ad8344414667068357773f58444cd8ca42c213e1a5d6a7247bfcc47fc421",
+  "customLicenseSha256": "5db74d9d63d08d1312518fdb759bcad202b62a6afae9018e44c70e7cbe000c50"
+}

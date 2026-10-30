@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "license": "KIANA-CUSTOM-LICENSE.txt",
+  "description": "仅列出独立新增文件中的可许可定制表达；不覆盖上游、第三方、角色及不具备可许可权利的内容。不是全工程改许可证。",
+  "customPatterns": [
+    "renderer/kiana*.js",
+    "renderer/kiana*.css",
+    "renderer/bridge-quote*.js",
+    "renderer/local-time-period.js",
+    "renderer/panel-crop-launch.js",
+    "renderer/panel-image-crop.js",
+    "renderer/panel-reminder.js",
+    "renderer/panel-surface.js",
+    "renderer/crop.js",
+    "renderer/crop.css",
+    "renderer/crop.html",
+    "renderer/pet-startup.js",
+    "renderer/pixi-canary/pixi-head-rig.js",
+    "renderer/pixi-canary/pixi-head-rig-pet.js",
+    "renderer/pixi-canary/layers.js",
+    "renderer/pixi-canary/body-layers.js",
+    "assets/kiana/brand/*",
+    "renderer/kiana-fork-kernel.wasm"
+  ],
+  "exceptions": [
+    "官方角色、造型、台词、参考图片及角色美术中的第三方权利不受本自定义许可覆盖",
+    "引用的第三方库、片段及其修改继续适用原许可",
+    "main.js、preload.js、backend、shared、hook及未列出的上游文件保留原有许可；不以本清单限制上游MIT权利",
+    "所有许可授予均以发布者有权授予为限；不承诺AI辅助内容必然具备排他权"
+  ]
+}
