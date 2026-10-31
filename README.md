@@ -19,3 +19,11 @@ RELEASE-IDENTITY.json记录版本、定制构建指纹和许可摘要，安装�
 ## 版本核对和问题反馈
 
 请先阅读 [版本来源核对](AUTHOR-AND-VERSION.md) 和 [反馈说明](FEEDBACK.md)。网盘用于下载安装，GitHub Issues 用于集中跟踪问题。已裁切的自定义图片、会话记录、账户凭据和完整用户目录不属于常规反馈材料。
+
+## 让 Agent 帮你安装和使用
+
+把下面这句话发给能运行本地命令的 Agent：
+
+> 请阅读这份指南，帮我下载安装并启动琪亚娜桌宠，完成后告诉我有哪些功能、怎么使用：https://raw.githubusercontent.com/befrica/KianaPet/main/AGENT-GUIDE.md
+
+[查看 Agent 安装与使用指南](AGENT-GUIDE.md)。适用于 Windows 11 x64；Agent 需要拥有本地执行能力，并遵守其平台的安装确认规则。
