@@ -6,7 +6,7 @@ Windows 11 x64 非官方定制桌宠，公开测试版，仅当前用户安装�
 
 角色形象基于《崩坏3》琪亚娜官方“月咏星谣”形象的非官方二次改造，原始角色相关权利归原权利人。
 
-下载安装包可使用[百度网盘](https://pan.baidu.com/s/17qlUuut0XPUwOGcAspN_SQ?pwd=375a)，提取码：375a。文件为 2.1.4 公开测试版 ZIP 和 ZIP-SHA256.txt。GitHub Releases 尚待建立；当前不启用应用内自动更新。具体已测范围和限制见发布说明。
+下载安装包可使用[百度网盘](https://pan.baidu.com/s/17qlUuut0XPUwOGcAspN_SQ?pwd=375a)，提取码：375a。文件为 2.1.4 公开测试版 ZIP 和 ZIP-SHA256.txt。[GitHub 公开测试版下载](https://github.com/befrica/KianaPet/releases/tag/v2.1.4)已发布；当前不启用应用内自动更新。具体已测范围和限制见发布说明。
 
 ## 贡献与修改版
 
