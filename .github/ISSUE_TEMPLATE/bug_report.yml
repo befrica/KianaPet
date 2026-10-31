@@ -1,0 +1,30 @@
+name: 问题反馈
+description: 启动、额度、动画或界面异常
+title: "[问题] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 桌宠版本和下载渠道
+      placeholder: 2.1.4 / GitHub 或百度网盘
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Windows 版本和显示缩放
+      placeholder: Windows 11 24H2，125%
+    validations:
+      required: true
+  - type: textarea
+    id: settings
+    attributes:
+      label: 桌宠设置
+      description: 正比或Q版、缩放、优化开关、面板材质等。
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、预期和实际结果
+      description: 请说明发生频率，可附脱敏截图或短视频。不要上传密钥、会话全文或用户目录。
+    validations:
+      required: true
